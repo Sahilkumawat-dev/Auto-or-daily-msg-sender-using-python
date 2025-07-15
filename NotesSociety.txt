@@ -1,0 +1,25 @@
+5/30 days coding challenge (15-12-24).
+===========================================
+NotesSociety
+================================================
+NotesSociety link: https://notessociety.netlify.app/
+
+=======================================================
+follow on WhatsApp group by website..
+============================================================
+"using python language"
+
+yh code every 15sec me us person ko msg beje ga, jiske aapne number iis code me likhen honge..
+Note:- ager aap 10sec se km ka time set krte ho, to aapke number WhatsApp block kr dega..  
+
+"Auto msg sender"   ===================================================
+
+"scheduled msg sender (daily msg sender)"
+iiski help se aap roj aak hi time pr(jiske number code me add h.)
+uus person ko same time daily msg send hoga
+
+=====================================================
+Note: msg send krne se phle dekhe ki import ki gyi library install honi chhiye !
+=====================================================
+phle se hi apna WhatsApp ko system me login rkhe, nhi to jese hi code run hoga vese hi Browser me whatsapp ka scaneer open hoga aap us time bhi scane kr skte ho
+
